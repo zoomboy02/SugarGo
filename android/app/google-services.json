@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "973350463427",
+    "project_id": "sugargo-bd9c2",
+    "storage_bucket": "sugargo-bd9c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973350463427:android:5a8cd35ea74bef56097f76",
+        "android_client_info": {
+          "package_name": "com.example.sugarlevels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973350463427-outkck2jl7ojolf98okmr8gv11sq0hkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sugarlevels",
+            "certificate_hash": "a9518c283875b3586b4b9ba1f3a89e5fef59b843"
+          }
+        },
+        {
+          "client_id": "973350463427-tjbfckp1tcdf8c4h1epv6k03gl0t46t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MoIYUlgeEKkRhKzTJDqVVEMqLshAf4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973350463427-crs51c73kf4a9gaf3ke7f8qcse36acec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973350463427:android:0c7529373895e1bd097f76",
+        "android_client_info": {
+          "package_name": "com.sugarlevels.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973350463427-tjbfckp1tcdf8c4h1epv6k03gl0t46t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MoIYUlgeEKkRhKzTJDqVVEMqLshAf4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973350463427-crs51c73kf4a9gaf3ke7f8qcse36acec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
